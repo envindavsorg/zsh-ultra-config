@@ -1,7 +1,5 @@
 # 🚀 Zsh Ultra Config
 
-<div align="center">
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Shell: Zsh](https://img.shields.io/badge/Shell-Zsh-blue.svg)](https://www.zsh.org/)
 [![macOS](https://img.shields.io/badge/Platform-macOS-lightgrey.svg)](https://www.apple.com/macos/)
@@ -10,8 +8,6 @@
 **A comprehensive, performance-optimized Zsh configuration with modular alias collections for developers**
 
 *Transform your terminal into a productivity powerhouse* 💪
-
-</div>
 
 ---
 
