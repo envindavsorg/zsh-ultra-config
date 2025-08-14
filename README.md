@@ -316,7 +316,7 @@ Found a bug or have a feature request? [Open an issue](https://github.com/envind
 
 <div align="center">
 
-**Made with ❤️ for developers who love productive terminals**
+**Made with ❤️ by Cuzeac Florin, for developers who love productive terminals**
 
 [⬆ Back to top](#-zsh-ultra-config)
 
